@@ -1,4 +1,4 @@
-![My TODO App banner](media/app-image.png)
+![My TODO App banner](media/app-image.PNG)
 
 # My TODO App
 
