@@ -4,9 +4,11 @@
 
 My TODO App is a task management application to help users stay organized and keep daily tasks in one place. The app is a simple mobile application created with React Native.
 
-<br>
+
+
 ![My TODO App gif](media/app-video.gif)
-<br>
+
+
 
 ## Features
 Myt TODO App features include:<br> 
