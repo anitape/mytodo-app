@@ -6,7 +6,7 @@ My TODO App is a task management application to help users stay organized and ke
 
 
 
-<img src="media/app-video.gif" width="60%"/>
+<img src="media/app-video.gif" width="30%"/>
 
 
 
