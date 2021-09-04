@@ -6,7 +6,7 @@ My TODO App is a task management application to help users stay organized and ke
 
 <br>
 ![My TODO App gif](media/app-video.gif)
-<br><br>
+<br>
 
 ## Features
 Myt TODO App features include:<br> 
